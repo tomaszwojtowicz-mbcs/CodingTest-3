@@ -1,5 +1,7 @@
 # CodingTest-3
 Task 1/2
 
-Will complete the description at some poin, but the gist is:
-- implement a solution that test if given interval is fully contained in the list of intervals
+Implement a function that takes as input 
+	•	A closed integer interval 𝐼, 
+	•	a collection of intervals 𝐴1... 𝐴n 
+and checks if 𝐼 ⊆⋃j 𝐴𝑗. (i.e. if every element of 𝐼 is in the union of the 𝐴i)
